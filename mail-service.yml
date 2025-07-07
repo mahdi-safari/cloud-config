@@ -1,0 +1,12 @@
+# mail-service.yml
+smtp:
+  server-host: mail.avatsp.com
+  server-port: 25
+  auth: true 
+  start-tls-enable: true
+  username: testtsp@avatsp.com
+  password: Tt@@1234##
+  ssl-protocols: TLSv1.2
+
+server:
+  port: 8085
