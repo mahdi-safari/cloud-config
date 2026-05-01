@@ -1,1 +1,2 @@
-# تنظیمات عمومی همه سرویس‌ها
+my-service:
+  message: hello
